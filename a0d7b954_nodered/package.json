@@ -1,0 +1,14 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-config": "~1.2.1",
+        "node-red-contrib-light-scheduler": "0.0.15",
+        "node-red-contrib-schedex": "~1.10.2",
+        "node-red-contrib-startup-trigger": "~0.1.0",
+        "node-red-contrib-telegrambot": "~5.5.2",
+        "node-red-contrib-timerswitch": "~1.2.4"
+    }
+}
